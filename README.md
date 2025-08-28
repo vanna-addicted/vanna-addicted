@@ -5,7 +5,7 @@
 
 ### Немного фактов
 
-📝  <a href="">Диплом</a> подтверждающий навыки
+📝  <a href="https://github.com/vanna-addicted/vanna-addicted/blob/main/photo_2023-10-31_13-58-00%20(2).jpg">Диплом</a> подтверждающий навыки
 <br>
 
 
