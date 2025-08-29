@@ -7,22 +7,15 @@
 Более 8 лет занимаюсь преподавательской деятельностью, имею высшую квалификационную категорию. Являюсь эскпертом ЕГЭ (письменной и устной части) с 2022 г.
 Ежегодно повышаю квалификацию, а также прохожу профессиональную переподготовку.
 
-### Дипломы
-📝 
-<a href="https://github.com/vanna-addicted/vanna-addicted/blob/main/photo_2023-10-31_13-58-00%20(2).jpg">Диплом</a> о высшем образовании <br>
-<a href="https://github.com/vanna-addicted/vanna-addicted/blob/main/d58f6a1e2438e5f15fb63ddfa389d603.pdf">Удостоверение</a> о повышении квалификации <br>
-
-
+### 📝 <a href="https://github.com/vanna-addicted/vanna-addicted-diploma">Дипломы</a>
 <br>
 
-### Сертификаты
-
-📝  <a href="https://github.com/vanna-addicted/vanna-addicted/blob/main/Свидетельство%20проекта%20infourok.ru%20№УЩ09987424.jpg">Сертификат о публикации</a> статьи
+### 📝  <a href="https://github.com/vanna-addicted/vanna-addicted-certificates">Сертификаты </a>
 
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/art8m1s)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/vanna_adicted)
 
 </div>
 <!--
